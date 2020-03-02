@@ -17,5 +17,7 @@ There is so much information at our fingertips that most of us block it all out.
 # Portfolio Contents
 
 OECD data: https://demitrakourtzidis.github.io/OECDdataviz/
+
 School spending: https://demitrakourtzidis.github.io/SchoolViz/
+
 Final Project - Mass Incarceration: https://demitrakourtzidis.github.io/Demitra_Kourtzidis_FinalProject/
